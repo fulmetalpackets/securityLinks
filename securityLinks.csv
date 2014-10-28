@@ -1,1 +1,110 @@
-Type,Description/ Comments,URLTools,Multiple Analysis tools,http://www.kahusecurity.com/tools/Tutorial,Shellcode and Dep,http://0xdabbad00.com/2012/12/07/dep-data-execution-prevention-explanation/ Tutorial,Whitelist bypassing,http://www.room362.com/blog/2014/01/16/application-whitelist-bypass-using-ieexec-dot-exe/Tutorial,Shellshock example,http://steve-parker.org/articles/shellshock/General Tool,Multi platform advanced text editor,http://www.sublimetext.com/General Tool,Latex editor,http://www.xm1math.net/texmaker/download.htmlReverse Engineering Tool,API Monitor,http://www.rohitab.com/apimonitorReverse Engineering Tool,Immunity plugin Swiss army knife,http://redmine.corelan.be/projects/monaReverse Engineering Tool,"Evans debugger, GNU Debugger uses GDB",http://freecode.com/projects/edebuggerGeneral Tool,Document processor for latex,http://www.lyx.org/General Tool,Tool for grepping through pdfs,http://pdfgrep.sourceforge.net/Forensics,Recover deleted files from ext3 and ext4 file systems,http://extundelete.sourceforge.net/Forensics,Acquire memory images,https://www.mandiant.com/resources/download/memoryzeReverse Engineering Tool,"PE header tool, not free",http://www.heaventools.com/overview.htmForensics,Similar to proc explorer with a few different features,http://processhacker.sourceforge.net/Reverse Engineering Tool,"PE header tool, deals with some packers",http://exeinfo.atwebpages.com/Forensics,Takes two snapshot of windows registry in time and compares,http://sourceforge.net/projects/regshot/Forensics,Monitors modifications made to a system by a process,http://www.woodmann.com/collaborative/tools/index.php/SysAnalyzerForensics,PCAP analysis tool ,http://sourceforge.net/projects/networkminer/Post Exploitation,php web shell,https://github.com/epinna/Weevely/wiki/TutorialReverse Engineering Tool,awesome command line disassembler,http://www.radare.org/y/?p=examples&f=rasmForensics,Works with Procmon to analyses captured data,https://github.com/Rurik/NoribenForensics,"Similar to inet sim, simulates specified internet services",http://practicalmalwareanalysis.com/fakenet/General Tool,Hex editor for windows that does binary xor easily,http://sourceforge.net/projects/hexplorer/Reverse Engineering Tool,Binary visualization tool,https://sites.google.com/site/xxcantorxdustxx/interfaceGeneral Tool,ebook manager,http://calibre-ebook.com/Reverse Engineering Tool,.NET assembly browser and decompiler,http://ilspy.net/Forensics,parses proc mon output and pcaps into graphes and tables,http://www.cert.at/downloads/software/procdot_en.htmlExploitation,Converting shellcode to x86 assembly,http://zeltser.com/reverse-malware/convert-shellcode.htmlForensics,Uses DLL injection to intercept network traffic,http://www.wildcroftsecurity.com/echo-mirageGeneral Tool,Page to monitor active Zeus botnets,https://zeustracker.abuse.ch/index.phpFuzzing,Fuzzing database,https://code.google.com/p/fuzzdb/Reverse Engineering Tool,Windows debugger with 64 bit support,http://x64dbg.com/#startGeneral Tool,Open source psexec,http://www.poweradmin.com/paexec/ General Tool,PE explorer tool,http://www.ntcore.com/exsuite.phpTutorial,Nmap Options,http://kungfuhacking.blogspot.in/2014/10/nmap-scanning-large-networks.html?m=1Tutorial,Red Team blog,http://redteams.net/blog/2013/the-original-12-explained?q=rules -Tutorial,Windows fix MBR,http://www.sevenforums.com/tutorials/20864-mbr-restore-windows-7-master-boot-record.htmlGeneral Tool,Run anything as a windows service,http://nssm.cc/General Tool,Dll to EXE script,https://code.google.com/p/malwarecookbook/source/browse/trunk/13/8/dll2exe.py?r=19 -Forensics,Tool for IAT/ PE Rebuilding,https://tuts4you.com/download.php?view.3503Forensics,Sysinteral tool to suplement prcomon,http://technet.microsoft.com/en-us/sysinternals/dn798348Development,Microframework for Python for web development,http://flask.pocoo.org/ -Development,"HTML,CSS and JS framework for developing responsive mobile first projects",http://getbootstrap.com/General Tool,hex edior that is PE32 aware,http://www.mcafee.com/us/downloads/free-tools/fileinsight.aspxPost Exploitation,Mimikatz,https://github.com/gentilkiwi/mimikatzTutorial,Malicous IPs to blacklist,http://zeltser.com/combating-malicious-software/malicious-ip-blocklists.htmlGeneral Tool,Fast and easy webserver,https://code.google.com/p/mongoose/Exploitation,For Mac MITM proxy,http://mitmproxy.org/General Tool,Useful URLs when when web testing,https://github.com/pwnwiki/webappurlsDevelopment,Open Source software engineering platform,http://phabricator.org/Forensics,RSA key finder for memory images,https://launchpad.net/ubuntu/+source/rsakeyfindForensics,Monitoring tool for binaries on linux,http://www.sysdig.orgTutorial,Fish guide,http://hackercodex.com/guide/install-fish-shell-mac-ubuntu/Tutorial,Open vas setup,http://sathisharthars.wordpress.com/2014/04/14/configuring-openvas-in-kali-linux-1-06/General Tool,Script use for enumeration ,https://github.com/superkojiman/onetwopunchGeneral Tool,List of User Agent strings,http://www.useragentstring.com/Exploitation,Encrypted NetCat,http://cryptcat.sourceforge.net/General Tool,Like nmap but optimized to be really fast,https://github.com/robertdavidgraham/masscanDevelopment,Tool to create isolated python environment,http://virtualenv.readthedocs.org/en/latest/virtualenv.htmlReverse Engineering Tool,OSX disassembler ,http://www.hopperapp.com/Reverse Engineering Tool,Binary visualization tool,https://github.com/wapiflapi/binglideForensics,Open Source Image Forensic VM or cloud service,http://www.getghiro.org/General Tool,Backtrack's discovers scripts,https://github.com/leebaird/discoverForensics,PE studio binary analysis tool,http://www.winitor.comGeneral Tool,Grub customizer and repair tool,https://launchpad.net/grub-customizerExploitation,SSL MITM tool,http://www.roe.ch/SSLsplitTutorial,sqlmap helpful commands ,http://carnal0wnage.attackresearch.com/2011/12/sqlmap-searching-databases-for-specific.htmlTutorial,sqlmap helpful commands ,http://niiconsulting.com/checkmate/2014/01/from-sql-injection-to-0wnage-using-sqlmap/Development,Python library that handles most sql engine tpes,http://www.sqlalchemy.org/Exploitation,sqlmap tamper scripts,https://github.com/sqlmapproject/sqlmap/tree/master/tamperTutorial,sqlmap tamper scripts breakdown,http://blog.netinfiltration.com/2014/09/24/sqlmap-tamper-scriptsTutorial,vmware freeze in time,http://sanbarrow.com/vmx/vmx-always-start-tonight.htmlTutorial,metasploit db setup,http://fedoraproject.org/wiki/Metasploit_Postgres_SetupTutorial,check DD status different OSes and tricks,http://www.commandlinefu.com/commands/view/1067/check-the-status-of-dd-in-progressForensics,Capture changes a program makes to os and packets sent,http://www.aldeid.com/wiki/CaptureBATReverse Engineering Tool,OllyDebug plugin check for safe safeSEH,http://www.openrce.org/downloads/details/244/OllySSEHReverse Engineering Tool,OllyDebug plugin exception handler indicater,http://www.openrce.org/downloads/details/173/OllyGraphReverse Engineering Tool,OllyDebug plugin to run dlls,http://www.ollydbg.de/Loaddll.htmReverse Engineering Tool,IDA plugin for patching,https://github.com/isislab/FentanylTutorial,Windows remote desktop fire walls rules command line,https://rowell.dionicio.net/unable-to-remote-desktop-into-windows-server-2012-r2-core/Tutorial,Windows API and Syscalls,http://j00ru.vexillium.org/Tutorial,Windows API and Syscalls,http://www.codeguru.com/cpp/w-p/system/devicedriverdevelopment/article.php/c8035/How-Do-Windows-NT-System-Calls-REALLY-Work.htmTutorial,Windows system call hooking,http://www.drdobbs.com/windows/windows-nt-system-call-hooking/184410109Tutorial,Windows enable admin shares,http://www.wintips.org/how-to-enable-admin-shares-windows-7/Tutorial,Windows coding service example,http://www.codeproject.com/Articles/499465/Simple-Windows-Service-in-CplusplusTutorial,Windows coding treading example,http://courses.cs.washington.edu/courses/cse410/00au/hw/hw6_waitthreads.htmlGeneral Tool,Theme for Ubuntu,http://numixproject.org/Reverse Engineering Tool,objdump,https://sourceware.org/binutils/docs/binutils/objdump.htmlExploitation,zOS mainframe back door,http://mainframed767.tumblr.com/post/50574743147/big-iron-back-door-maintp-part-twoExploitation,zOS mainframe eploit,https://raw.githubusercontent.com/mainframed/MainTP/master/MainTP.pyTutorial,Web with DVWA,http://www.computersecuritystudent.com/SECURITY_TOOLS/DVWA/DVWAv107/Challenges,Web with DVWA,https://www.hackthissite.org/Challenges,vulnerable vms,http://vulnhub.com/Challenges,reverse enginering and crack me s,http://www.binary-auditing.com/Challenges,reveseing malware,http://contagiodump.blogspot.com/Challenges,crack mes,http://crackmes.de/Challenges,large variety of wargames,http://overthewire.org/wargames/Challenges,xss ,https://xss-game.appspot.com/Challenges,forensec challege,http://forensicscontest.com/2010/04/01/ms-moneymanys-mysterious-malwareForensics,rootkit detectin framework for uefi,http://www.reversinglabs.com/technology/open-source.html
+Type,Description/ Comments,URL
+Tools,Multiple Analysis tools,http://www.kahusecurity.com/tools/
+Tutorial,Shellcode and Dep,http://0xdabbad00.com/2012/12/07/dep-data-execution-prevention-explanation/ 
+Tutorial,Whitelist bypassing,http://www.room362.com/blog/2014/01/16/application-whitelist-bypass-using-ieexec-dot-exe/
+Tutorial,Shellshock example,http://steve-parker.org/articles/shellshock/
+General Tool,Multi platform advanced text editor,http://www.sublimetext.com/
+General Tool,Latex editor,http://www.xm1math.net/texmaker/download.html
+Reverse Engineering Tool,API Monitor,http://www.rohitab.com/apimonitor
+Reverse Engineering Tool,Immunity plugin Swiss army knife,http://redmine.corelan.be/projects/mona
+Reverse Engineering Tool,"Evans debugger, GNU Debugger uses GDB",http://freecode.com/projects/edebugger
+General Tool,Document processor for latex,http://www.lyx.org/
+General Tool,Tool for grepping through pdfs,http://pdfgrep.sourceforge.net/
+Forensics,Recover deleted files from ext3 and ext4 file systems,http://extundelete.sourceforge.net/
+Forensics,Acquire memory images,https://www.mandiant.com/resources/download/memoryze
+Reverse Engineering Tool,"PE header tool, not free",http://www.heaventools.com/overview.htm
+Forensics,Similar to proc explorer with a few different features,http://processhacker.sourceforge.net/
+Reverse Engineering Tool,"PE header tool, deals with some packers",http://exeinfo.atwebpages.com/
+Forensics,Takes two snapshot of windows registry in time and compares,http://sourceforge.net/projects/regshot/
+Forensics,Monitors modifications made to a system by a process,http://www.woodmann.com/collaborative/tools/index.php/SysAnalyzer
+Forensics,PCAP analysis tool ,http://sourceforge.net/projects/networkminer/
+Post Exploitation,php web shell,https://github.com/epinna/Weevely/wiki/Tutorial
+Reverse Engineering Tool,awesome command line disassembler,http://www.radare.org/y/?p=examples&f=rasm
+Forensics,Works with Procmon to analyses captured data,https://github.com/Rurik/Noriben
+Forensics,"Similar to inet sim, simulates specified internet services",http://practicalmalwareanalysis.com/fakenet/
+General Tool,Hex editor for windows that does binary xor easily,http://sourceforge.net/projects/hexplorer/
+Reverse Engineering Tool,Binary visualization tool,https://sites.google.com/site/xxcantorxdustxx/interface
+General Tool,ebook manager,http://calibre-ebook.com/
+Reverse Engineering Tool,.NET assembly browser and decompiler,http://ilspy.net/
+Forensics,parses proc mon output and pcaps into graphes and tables,http://www.cert.at/downloads/software/procdot_en.html
+Exploitation,Converting shellcode to x86 assembly,http://zeltser.com/reverse-malware/convert-shellcode.html
+Forensics,Uses DLL injection to intercept network traffic,http://www.wildcroftsecurity.com/echo-mirage
+General Tool,Page to monitor active Zeus botnets,https://zeustracker.abuse.ch/index.php
+Fuzzing,Fuzzing database,https://code.google.com/p/fuzzdb/
+Reverse Engineering Tool,Windows debugger with 64 bit support,http://x64dbg.com/#start
+General Tool,Open source psexec,http://www.poweradmin.com/paexec/ 
+General Tool,PE explorer tool,http://www.ntcore.com/exsuite.php
+Tutorial,Nmap Options,http://kungfuhacking.blogspot.in/2014/10/nmap-scanning-large-networks.html?m=1
+Tutorial,Red Team blog,http://redteams.net/blog/2013/the-original-12-explained?q=rules -
+Tutorial,Windows fix MBR,http://www.sevenforums.com/tutorials/20864-mbr-restore-windows-7-master-boot-record.html
+General Tool,Run anything as a windows service,http://nssm.cc/
+General Tool,Dll to EXE script,https://code.google.com/p/malwarecookbook/source/browse/trunk/13/8/dll2exe.py?r=19 -
+Forensics,Tool for IAT/ PE Rebuilding,https://tuts4you.com/download.php?view.3503
+Forensics,Sysinteral tool to suplement prcomon,http://technet.microsoft.com/en-us/sysinternals/dn798348
+Development,Microframework for Python for web development,http://flask.pocoo.org/ -
+Development,"HTML,CSS and JS framework for developing responsive mobile first projects",http://getbootstrap.com/
+General Tool,hex edior that is PE32 aware,http://www.mcafee.com/us/downloads/free-tools/fileinsight.aspx
+Post Exploitation,Mimikatz,https://github.com/gentilkiwi/mimikatz
+Tutorial,Malicous IPs to blacklist,http://zeltser.com/combating-malicious-software/malicious-ip-blocklists.html
+General Tool,Fast and easy webserver,https://code.google.com/p/mongoose/
+Exploitation,For Mac MITM proxy,http://mitmproxy.org/
+General Tool,Useful URLs when when web testing,https://github.com/pwnwiki/webappurls
+Development,Open Source software engineering platform,http://phabricator.org/
+Forensics,RSA key finder for memory images,https://launchpad.net/ubuntu/+source/rsakeyfind
+Forensics,Monitoring tool for binaries on linux,http://www.sysdig.org
+Tutorial,Fish guide,http://hackercodex.com/guide/install-fish-shell-mac-ubuntu/
+Tutorial,Open vas setup,http://sathisharthars.wordpress.com/2014/04/14/configuring-openvas-in-kali-linux-1-06/
+General Tool,Script use for enumeration ,https://github.com/superkojiman/onetwopunch
+General Tool,List of User Agent strings,http://www.useragentstring.com/
+Exploitation,Encrypted NetCat,http://cryptcat.sourceforge.net/
+General Tool,Like nmap but optimized to be really fast,https://github.com/robertdavidgraham/masscan
+Development,Tool to create isolated python environment,http://virtualenv.readthedocs.org/en/latest/virtualenv.html
+Reverse Engineering Tool,OSX disassembler ,http://www.hopperapp.com/
+Reverse Engineering Tool,Binary visualization tool,https://github.com/wapiflapi/binglide
+Forensics,Open Source Image Forensic VM or cloud service,http://www.getghiro.org/
+General Tool,Backtrack's discovers scripts,https://github.com/leebaird/discover
+Forensics,PE studio binary analysis tool,http://www.winitor.com
+General Tool,Grub customizer and repair tool,https://launchpad.net/grub-customizer
+Exploitation,SSL MITM tool,http://www.roe.ch/SSLsplit
+Tutorial,sqlmap helpful commands ,http://carnal0wnage.attackresearch.com/2011/12/sqlmap-searching-databases-for-specific.html
+Tutorial,sqlmap helpful commands ,http://niiconsulting.com/checkmate/2014/01/from-sql-injection-to-0wnage-using-sqlmap/
+Development,Python library that handles most sql engine tpes,http://www.sqlalchemy.org/
+Exploitation,sqlmap tamper scripts,https://github.com/sqlmapproject/sqlmap/tree/master/tamper
+Tutorial,sqlmap tamper scripts breakdown,http://blog.netinfiltration.com/2014/09/24/sqlmap-tamper-scripts
+Tutorial,vmware freeze in time,http://sanbarrow.com/vmx/vmx-always-start-tonight.html
+Tutorial,metasploit db setup,http://fedoraproject.org/wiki/Metasploit_Postgres_Setup
+Tutorial,check DD status different OSes and tricks,http://www.commandlinefu.com/commands/view/1067/check-the-status-of-dd-in-progress
+Forensics,Capture changes a program makes to os and packets sent,http://www.aldeid.com/wiki/CaptureBAT
+Reverse Engineering Tool,OllyDebug plugin check for safe safeSEH,http://www.openrce.org/downloads/details/244/OllySSEH
+Reverse Engineering Tool,OllyDebug plugin exception handler indicater,http://www.openrce.org/downloads/details/173/OllyGraph
+Reverse Engineering Tool,OllyDebug plugin to run dlls,http://www.ollydbg.de/Loaddll.htm
+Reverse Engineering Tool,IDA plugin for patching,https://github.com/isislab/Fentanyl
+Tutorial,Windows remote desktop fire walls rules command line,https://rowell.dionicio.net/unable-to-remote-desktop-into-windows-server-2012-r2-core/
+Tutorial,Windows API and Syscalls,http://j00ru.vexillium.org/
+Tutorial,Windows API and Syscalls,http://www.codeguru.com/cpp/w-p/system/devicedriverdevelopment/article.php/c8035/How-Do-Windows-NT-System-Calls-REALLY-Work.htm
+Tutorial,Windows system call hooking,http://www.drdobbs.com/windows/windows-nt-system-call-hooking/184410109
+Tutorial,Windows enable admin shares,http://www.wintips.org/how-to-enable-admin-shares-windows-7/
+Tutorial,Windows coding service example,http://www.codeproject.com/Articles/499465/Simple-Windows-Service-in-Cplusplus
+Tutorial,Windows coding treading example,http://courses.cs.washington.edu/courses/cse410/00au/hw/hw6_waitthreads.html
+General Tool,Theme for Ubuntu,http://numixproject.org/
+Reverse Engineering Tool,objdump,https://sourceware.org/binutils/docs/binutils/objdump.html
+Exploitation,zOS mainframe back door,http://mainframed767.tumblr.com/post/50574743147/big-iron-back-door-maintp-part-two
+Exploitation,zOS mainframe eploit,https://raw.githubusercontent.com/mainframed/MainTP/master/MainTP.py
+Tutorial,Web with DVWA,http://www.computersecuritystudent.com/SECURITY_TOOLS/DVWA/DVWAv107/
+Challenges,Web with DVWA,https://www.hackthissite.org/
+Challenges,vulnerable vms,http://vulnhub.com/
+Challenges,reverse enginering and crack me s,http://www.binary-auditing.com/
+Challenges,reveseing malware,http://contagiodump.blogspot.com/
+Challenges,crack mes,http://crackmes.de/
+Challenges,large variety of wargames,http://overthewire.org/wargames/
+Challenges,xss ,https://xss-game.appspot.com/
+Challenges,forensec challege,http://forensicscontest.com/2010/04/01/ms-moneymanys-mysterious-malware
+Forensics,rootkit detectin framework for uefi,http://www.reversinglabs.com/technology/open-source.html
+Tutorial,Windows command line adding users,http://www.windows-commandline.com/add-user-to-group-from-command-line/
+Tutorial,ipmi cipher hacking,http://securitysynapse.blogspot.com/2013/10/hacking-ipmi-cipher-0-using-kali-linux.html
+Exploitation,powershell hacking scripts,https://github.com/mattifestation/PowerSploit
+Exploitation,smb relaying,http://www.room362.com/blog/2014/05/21/effective-ntlm-slash-smb-relaying/
+Exploitation,ntlm relaying,https://github.com/urbanesec/ZackAttack
+Tutorial,Powershell and win api access,http://www.harmj0y.net/blog/powershell/powershell-and-win32-api-access/
+Tutorial,beef and responder,https://www.christophertruncer.com/getting-hooked-responder-beef/
+Exploitation,browser exploitatoin toolkit,http://beefproject.com/
