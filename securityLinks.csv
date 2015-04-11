@@ -132,3 +132,4 @@ General Tool, viper malware anaylsis and storage tool, http://viper.li/
 General Tool, anaylize web traffic live or after the face,https://github.com/jbittel/httpry
 Exploitation, hide php shell in images, https://www.trustwave.com/Resources/SpiderLabs-Blog/Hiding-Webshell-Backdoor-Code-in-Image-Files/
 Development, python ide, https://www.jetbrains.com/pycharm/
+Exploitation, command injection tool, https://github.com/stasinopoulos/commix
