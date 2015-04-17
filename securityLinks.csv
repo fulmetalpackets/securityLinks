@@ -134,4 +134,4 @@ Exploitation, hide php shell in images, https://www.trustwave.com/Resources/Spid
 Development, python ide, https://www.jetbrains.com/pycharm/
 Exploitation, command injection tool, https://github.com/stasinopoulos/commix
 Exploitation, ms15-034 poc, https://ma.ttias.be/remote-code-execution-via-http-request-in-iis-on-windows/
-Exploitation, ms15-034, checker, http://en.hackdig.com/04/20729.htm
+Exploitation, ms15-034 checker, http://en.hackdig.com/04/20729.htm
