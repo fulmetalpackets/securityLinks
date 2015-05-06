@@ -139,3 +139,4 @@ Reverse Engineering, reverse engineer crc,http://sourceforge.net/projects/reveng
 General Tool, dock for ubuntu gnome, https://extensions.gnome.org/extension/307/dash-to-dock/
 Forensics, linux memory extractor,https://github.com/504ensicsLabs/LiME
 General Tool, command line black list checker,https://github.com/adionditsak/blacklist-check-unix-linux-utility
+Tutorial,LiME and volatility, http://blog.opensecurityresearch.com/2014/05/acquiring-linux-memory-from-server-far.html
