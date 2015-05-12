@@ -142,3 +142,4 @@ General Tool, command line black list checker,https://github.com/adionditsak/bla
 Tutorial,LiME and volatility, http://blog.opensecurityresearch.com/2014/05/acquiring-linux-memory-from-server-far.html
 Forensics, dwarf tool - needed for volatility profiles, http://www.prevanders.net/dwarf.html
 Exploitation, citrix breakout, http://www.pentestpartners.com/blog/breaking-out-of-citrix-and-other-restricted-desktop-environments/
+Exploitation, epo password change, https://lakkireddymadhu.wordpress.com/2014/01/20/mcafee-epo-admin-password-lost/
