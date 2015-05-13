@@ -143,3 +143,5 @@ Tutorial,LiME and volatility, http://blog.opensecurityresearch.com/2014/05/acqui
 Forensics, dwarf tool - needed for volatility profiles, http://www.prevanders.net/dwarf.html
 Exploitation, citrix breakout, http://www.pentestpartners.com/blog/breaking-out-of-citrix-and-other-restricted-desktop-environments/
 Exploitation, epo password change, https://lakkireddymadhu.wordpress.com/2014/01/20/mcafee-epo-admin-password-lost/
+Tutorial,ELF stack setup, https://www.digitalocean.com/community/tutorials/how-to-install-elasticsearch-logstash-and-kibana-4-on-ubuntu-14-04
+General Tool, vulnerbilities in elastic search, http://www.securitygrit.com/2014/05/vulnerability-data-into-elasticsearch.html
