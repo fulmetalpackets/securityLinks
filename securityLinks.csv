@@ -151,3 +151,4 @@ General Tool, pentest tool for nessus nmap and reporting, http://www.gremwell.co
 Cheatsheet, pentest enumeration, http://www.0daysecurity.com/penetration-testing/enumeration.html
 cheatsheet, twiddle reference,http://www.mastertheboss.com/jboss-server/jboss-script/twiddle-reference-guide
 Exploitation, pentesting portable distro for windows, http://n0where.net/portable-penetration-testing-distribution-for-windows/
+Exploitation, winodws privesc checker, https://github.com/GDSSecurity/Windows-Exploit-Suggester
