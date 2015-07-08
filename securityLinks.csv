@@ -160,3 +160,5 @@ Exploitation, alternative to psexec, https://www.trustedsec.com/june-2015/no_pse
 Tutorial, veil macros, https://khr0x40sh.wordpress.com/2014/06/02/embedding-veil-powershell-payloads-into-office-documents/
 Tutorial, Reverse Engineering class and chalenges, https://github.com/RPISEC/MBE
 General Tool, Media VM,http://tretflix.com/
+Reverse Engineering, Windows Kernerl Debugging, http://virtualkd.sysprogs.org/
+Reverse Engineering, IDA Pro Diffing Plugin, https://github.com/joxeankoret/diaphora
