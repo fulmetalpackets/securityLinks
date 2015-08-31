@@ -172,3 +172,4 @@ Exploitation, MiTM framework, https://github.com/evilsocket/bettercap
 General Tool, split pcap files by stream,http://www.netresec.com/?page=SplitCap
 Reverse Engineering, Malware Repo, https://malware.lu/
 Exploitation, AV Evasion, http://www.securitysift.com/pecloak-py-an-experiment-in-av-evasion/
+Exploitation, XSS framework, http://techblog.netflix.com/2015/08/announcing-sleepy-puppy-cross-site.html
