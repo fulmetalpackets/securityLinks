@@ -173,3 +173,4 @@ General Tool, split pcap files by stream,http://www.netresec.com/?page=SplitCap
 Reverse Engineering, Malware Repo, https://malware.lu/
 Exploitation, AV Evasion, http://www.securitysift.com/pecloak-py-an-experiment-in-av-evasion/
 Exploitation, XSS framework, http://techblog.netflix.com/2015/08/announcing-sleepy-puppy-cross-site.html
+Reverse Engineering,BinNavi is a binary code reverse engineering tool that was built to assist vulnerability researchers who look for vulnerabilities in disassembled code. ,http://www.zynamics.com/binnavi.html
