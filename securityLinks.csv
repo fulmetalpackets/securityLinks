@@ -201,3 +201,6 @@ Tutorial, passive intel gathering, http://www.slideshare.net/CTruncer/passive-in
 Tutorial, c++ programing for embedded, https://arobenko.gitbooks.io/bare_metal_cpp/content/index.html
 General Tool,video player with wealth of features that can be good for forensics,  http://www.irfanview.com/
 Tutorial,exploit dev,  http://www.fuzzysecurity.com/index.html
+tutorial, exploit dev egg hunters, http://www.fuzzysecurity.com/tutorials/expDev/4.html
+tutorial, exploit dev egg hunters, https://www.corelan.be/index.php/2010/01/09/exploit-writing-tutorial-part-8-win32-egg-hunting/
+tutorial, exploit dev bypass seh, https://www.corelan.be/index.php/2009/09/21/exploit-writing-tutorial-part-6-bypassing-stack-cookies-safeseh-hw-dep-and-aslr/
