@@ -205,3 +205,4 @@ tutorial, exploit dev egg hunters, http://www.fuzzysecurity.com/tutorials/expDev
 tutorial, exploit dev egg hunters, https://www.corelan.be/index.php/2010/01/09/exploit-writing-tutorial-part-8-win32-egg-hunting/
 tutorial, exploit dev bypass seh, https://www.corelan.be/index.php/2009/09/21/exploit-writing-tutorial-part-6-bypassing-stack-cookies-safeseh-hw-dep-and-aslr/
 tutorial, leveraging splunk for attacking, http://threat.tevora.com/penetration-testing-with-splunk-leveraging-splunk-admin-credentials-to-own-the-enterprise/
+Tools,website to test regex and run unit tests, https://regex101.com/tests
