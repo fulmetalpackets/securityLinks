@@ -209,3 +209,5 @@ Tools,website to test regex and run unit tests, https://regex101.com/tests
 Tools, website for decoding, https://gchq.github.io/CyberChef/
 Tutorials,exploit vms, https://exploit-exercises.com/
 Tutorials, priv esc windows, https://pentest.blog/windows-privilege-escalation-methods-for-pentesters/
+Tutorial, bypass av using c#, https://www.linkedin.com/pulse/bypass-all-anti-viruses-encrypted-payloads-c-damon-mohammadbagher
+Tutorial, using dns traffic to bypass av, https://www.linkedin.com/pulse/bypassing-anti-viruses-transfer-backdoor-payloads-dns-mohammadbagher
